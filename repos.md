@@ -1,7 +1,20 @@
 I have maybe a lot of repos, and many of them are nothing.
 Here are some of the ones that are something:
 
+## Libraries
+- 🔤 [AlphGen](https://github.com/orez-/alphgen) -
+  Library for generating pixel fonts (.TTFs) from bitmaps.
+- 🔠 [xword-puz](https://github.com/orez-/xword-puz) -
+  Rust wasm library for generating `.puz` crossword files.
+- 🔙 [from-back](https://github.com/orez-/from-back) -
+  A Rust library for indexing and slicing from the back of a sequence.
+
 ## Tools
+- 🚥 [piet-tools](https://github.com/orez-/piet_tools) -
+  A set of tools for working with [Piet](https://www.dangermouse.net/esoteric/piet.html) code.
+- 🫛 [pair-xword-setter](https://github.com/orez-/pair-xword-setter) -
+  A purpose-built xword setting tool.
+  Used for building a crossword where each cell fills with a 2-letter rebus.
 - 🖼️ [emoticon-tracker](https://github.com/orez-/emoticon-tracker) -
   Track changes to a Slack group's emoticons.
 - 📬 [git-stash-inbox](https://github.com/orez-/git-stash-inbox) -
